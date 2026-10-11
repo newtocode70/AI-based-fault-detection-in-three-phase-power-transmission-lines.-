@@ -1,0 +1,5 @@
+Model,Accuracy (%),TN,False alarms (FP),Missed faults (FN),TP
+Logistic Regression (Set R),72.63640149937525,1305,0,657,439
+Logistic Regression (Set Q),97.8758850478967,1299,6,45,1051
+Linear SVM,73.6359850062474,1305,0,633,463
+RBF SVM,99.58350687213661,1301,4,6,1090
