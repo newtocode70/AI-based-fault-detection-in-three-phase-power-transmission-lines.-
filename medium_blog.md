@@ -74,4 +74,4 @@ This project compared two Logistic Regression feature sets and two SVM kernels f
 
 ## Project Repository
 
-The code, preprocessing steps, trained models, figures, and instructions are available in the accompanying GitHub repository: **[Insert your public GitHub repository URL before publishing.]**
+The code, preprocessing steps, trained models, figures, and instructions are available in the accompanying GitHub repository: **[https://github.com/newtocode70/AI-based-fault-detection-in-three-phase-power-transmission-lines.-]**
