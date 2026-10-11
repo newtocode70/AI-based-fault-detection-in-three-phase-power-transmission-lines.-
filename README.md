@@ -266,4 +266,4 @@ Store the following deliverables under `results/` (or the paths configured in th
 ## 11. Team
 
 - **Kashif Gulzar**
-- **Muhammad Umar Daraz**
+- **Muhammad Umar Draz**
